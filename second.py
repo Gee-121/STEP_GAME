@@ -1,0 +1,72 @@
+name = input("enter your name:")
+
+print(" ")
+print("Welcome "+name+"!")
+
+print("Would you please enter two numbers for an addition problem?")
+print(" ")
+print("Please enter your numbers now")
+
+number1 = int(input("Enter number1:"))
+number2 = int(input("Enter number2:"))
+
+print(" ")
+print("...")
+print(" ")
+print("The answer is...")
+print(" ")
+print("...")
+print(" ")
+print(number1+number2)
+print(" ")
+
+print("What about subtraction?")
+print(" ")
+print("Please enter your numbers now")
+
+number1 = int(input("Enter number1:"))
+number2 = int(input("Enter number2:"))
+
+print(" ")
+print("...")
+print(" ")
+print("The answer is...")
+print(" ")
+print("...")
+print(" ")
+print(number1-number2)
+print(" ")
+
+print("How about mulitplication?")
+print(" ")
+print("Please enter your numbers now")
+
+number1 = int(input("Enter number1:"))
+number2 = int(input("Enter number2:"))
+
+print(" ")
+print("...")
+print(" ")
+print("The answer is...")
+print(" ")
+print("...")
+print(" ")
+print(number1*number2)
+print(" ")
+
+print("Some division?")
+print(" ")
+print("Please enter your numbers now")
+
+number1 = int(input("Enter number1:"))
+number2 = int(input("Enter number2:"))
+
+print(" ")
+print("...")
+print(" ")
+print("The answer is...")
+print(" ")
+print("...")
+print(" ")
+print(number1/number2)
+print(" ")
